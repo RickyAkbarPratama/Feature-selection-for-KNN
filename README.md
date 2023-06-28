@@ -1,1 +1,1 @@
-# Feature-selection-for-KNN
+# Feature selection for KNN
